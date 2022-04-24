@@ -1,3 +1,6 @@
+### RogueNetwork Rules
+
+
 ### Modified client:
 *Use of any hacked client is strictly prohibited (no Wurst, Aristois, etc).
 ### Toxic behavior:
